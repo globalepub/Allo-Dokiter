@@ -1,2 +1,2 @@
 # Allo-Dokiter
-Call, write and talk with you doctor - Togo
+Call, write and talk with your doctor - Togo
